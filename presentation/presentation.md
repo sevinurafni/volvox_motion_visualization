@@ -19,8 +19,7 @@ Volvox is a genus of spherical green algae composed of thousands of cells (Kirk,
         <p align="center"> a)</p>
     </th>
     <th>
-        <iframe src="img/simul.mp4" type="video/mp4" width="320" height="240" autoplay>
-        </iframe>
+        <embed src="img/simul.mp4" type="video/mp4" width="320" height="240"/>
         <p align="center"> b)</p>
     </th>
   </tr>
