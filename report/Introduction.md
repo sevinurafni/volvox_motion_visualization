@@ -13,7 +13,7 @@ Sparisoma Viridi</p>
 <p align="justify">
 Volvox is a genus of spherical green algae composed of thousands of cells [8] moving with flagella. These multicellular organisms consist of 500-50,000 cells [9] of which 98% are somatic cells and the rest are gametes [6]. Volvocine green algae, ranging from unicellular Chlamydomonas to multicellular Volvox can be seen in Figure 1, have emerged as model organisms for a number of problems in biological fluid dynamics [5]. </p> 
 
-<img src="img/evolution.png" alt="Evolution Unicelular to Multicelular" style="width:1000px;height:500px;">
+<img src="img/evolution.png" alt="Evolution Unicelular to Multicelular" style="width:800px;height:400px;">
 <p align="center"> Figure 2. Evolution from unicellular to multicellular.</p>
 
 <p align="justify"> Drescher (2009) report that when two adjacent Volvox carteri colonies, they can "dance" and move together in two formations, namely the waltz and the minuet. The two Volvox colonies cannot attached each other because the motion of the flagella of each colony produces a vortex [7]. Observation and simulation videos of Volvox carteri colonies can be seen in Figure 2. This behavior is different from Volvox Globator, in the video observation, it can be seen that two colonies of Volvox globator can attached each other and move together. Based on the discovery of this observation video, the idea emerged to create dynamic animation to visualize the approximate results of motion and position varying with time of the motion mode of two attached Volvox colonies.</p>
