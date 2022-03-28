@@ -4,8 +4,8 @@ Sparisoma Viridi</p>
 
 # Introduction
 <p align="justify"> The use of Internet to aid research practice has become more popular in the recent years[1], one of them is through the Youtube platform. YouTube videos are a treasure trove of data that can be used in a variety of research fields, from STEM education to medicine [10]. In this work, to analyze the Volvox motion mode, an observation video is needed. The keyword used is Volvox Globator so find videos on Craig Smith's youtube channel [11]. Volvox globator video can be seen in Figure 1.</p>
-
-<img src="img/glob.gif" alt="Evolution Unicelular to Multicelular" style="width:1000px;height:500px;">
+<p style="text-align:center;">
+<img src="img/glob.gif" alt="Evolution Unicelular to Multicelular" style="width:100px;height:300px;"></p>
 <p align="center"> Figure 1. Volvox Globator [11].</p>
 
 <p align="justify">
