@@ -24,6 +24,7 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
   </tr>
   <tr>
     <td>
+        <br>
         <img src="trans/001000-pers.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
         <p> Z-axis Translation with perspective</p>
     </td>
@@ -36,6 +37,7 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
         <p align="center"> XZ-axis Translation</p>
     </td>
     <td>
+        <br>
         <img src="trans/101000-pers.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
         <p> XZ-axis Translation with perspective</p>
     </td>
@@ -45,6 +47,7 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
         <p align="center"> YZ-axis Translation</p>
     </td>
     <td>
+        <br>
         <img src="trans/011000-pers.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
         <p> YZ-axis Translation with perspective</p>
     </td>
