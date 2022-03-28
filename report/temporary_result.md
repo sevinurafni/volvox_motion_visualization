@@ -2,14 +2,40 @@
 
 To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3tvGKjdI0X0MHleW4hW2XIJrxzFCg0/edit?usp=sharing" target="_blank"> click here</a>
 
-<table style="width:100%">
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table.center {
+  margin-left: auto; 
+  margin-right: auto;
+}
+</style>
+
+<table class="center>
   <tr>
     <td>
-        <img src="img/000000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
+        <img src="trans/000000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
         <p align="center"> Motionless</p>
     </td>
-    <th>Motion mode name</th>
-    <th>Visualization</th>
+    <td>
+        <img src="trans/100000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
+        <p align="center"> X-axis Translation</p>
+    </td>
+    <td>
+        <img src="trans/010000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
+        <p align="center"> Y-axis Translation</p>
+    </td>
+    <td>
+        <img src="trans/001000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
+        <p align="center"> Z-axis Translation</p>
+    </td>
+    <td>
+        <img src="trans/001000-pers.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
+        <p align="center"> X-axis Translation with perspective</p>
+    </td>
   </tr>
   <tr>
     <td>1</td>
