@@ -4,7 +4,10 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
 
 <table style="width:100%">
   <tr>
-    <td><img src="img/000000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;"></td>
+    <td>
+        <img src="img/000000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
+        <p align="center"> Motionless</p>
+    </td>
     <th>Motion mode name</th>
     <th>Visualization</th>
   </tr>
