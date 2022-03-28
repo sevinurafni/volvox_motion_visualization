@@ -32,5 +32,5 @@ Volvox is a genus of spherical green algae composed of thousands of cells [8] mo
 </table>
 <p align="center"> Figure 3. a) Video observation and b) Video simulation (Ishikawa et al., 2020)
 
-<p align="justify"> Volvox colonie with a diameter of 10 𝜇𝑚 to tens of millimeters[8] can be categorized as granular material [3]. The motion of two granular particles can be investigated using simple mechanics, a two-body system [2]. Consider the relative motion of a pair of three-dimensional particles that share the same point of contact. This contact interaction produces pure translational and rotational modes of motion (rolling and twisting) as well as a combination of pure motion. </p>
+<p align="justify"> Volvox colonies with a diameter of 10 𝜇𝑚 to tens of millimeters[8] can be categorized as granular material [3]. The motion of two granular particles can be investigated using simple mechanics, a two-body system [2]. Consider the relative motion of a pair of three-dimensional particles that share the same point of contact. This contact interaction produces pure translational and rotational modes of motion (rolling and twisting) as well as a combination of pure motion. </p>
 
