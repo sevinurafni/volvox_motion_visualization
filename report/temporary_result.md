@@ -11,7 +11,7 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
   <tr>
     <td>1</td>
     <td>Motionless</td>
-    <td><img src="img/000000.gif" alt="Observation video Ishikawa" style="width:300px;height:450px;"></td>
+    <td><img src="img/000000.gif" alt="Observation video Ishikawa" style="width:50px;height:50px;"></td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
