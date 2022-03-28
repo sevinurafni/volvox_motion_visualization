@@ -1,4 +1,4 @@
-# Binary Volvox Colonies Visualisation
+# <p align="center>Binary Volvox Colonies Visualisation </p>
 <p align="center">Sevi Nurafni (20920001)
 Sparisoma Viridi</p>
 
