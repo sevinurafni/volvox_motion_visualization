@@ -2,19 +2,8 @@
 
 To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3tvGKjdI0X0MHleW4hW2XIJrxzFCg0/edit?usp=sharing" target="_blank"> click here</a>
 
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
 
-table.center {
-  margin-left: auto; 
-  margin-right: auto;
-}
-</style>
-
-<table class="center>
+<table style="width:100%">
   <tr>
     <td>
         <img src="trans/000000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
