@@ -1,6 +1,7 @@
-# volvox_motion_visualization
+# Problems
 
-24 March 2022
-- Translational motion (x, y, z, xy, xz, yz, xyz)
-- Rotational motion (x, y, z)
-- Problem: how to generate rotational motion on the xy, xz, yz, and xyz axes
+<ul>
+  <li>The results of rotational motion on the xy, xz, yz, xyz axes do not match</li>
+  <li>The combination of rotational and translational motion makes the two colonies separate</li>
+  <li>How to run program with arguments</li>
+</ul>
