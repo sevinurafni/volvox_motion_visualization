@@ -53,8 +53,8 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
         <p align="center"> XYZ-axis Translation</p>
     </td>
     <td>
+        <br>
         <img src="trans/111000-pers.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
-        <p></p>
         <p> XYZ-axis Translation with perspective</p>
     </td>
   <tr>
