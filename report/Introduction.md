@@ -1,6 +1,6 @@
 # <p align="center">Binary Volvox Colonies Visualisation </p>
-<p align="center">Sevi Nurafni (20920001)
-Sparisoma Viridi</p>
+<p align="center"><b>Sevi Nurafni (20920001) - 
+Sparisoma Viridi</b></p>
 
 # Introduction
 <p align="justify"> The use of Internet to aid research practice has become more popular in the recent years[1], one of them is through the Youtube platform. YouTube videos are a treasure trove of data that can be used in a variety of research fields, from STEM education to medicine [10]. In this work, to analyze the Volvox motion mode, an observation video is needed. The keyword used is Volvox Globator so find videos on Craig Smith's youtube channel [11]. Volvox globator video can be seen in Figure 1.</p>
