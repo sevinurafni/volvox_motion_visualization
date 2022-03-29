@@ -1,4 +1,4 @@
-# Temporary Result 15/64
+# Temporary Result 20/64
 
 To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3tvGKjdI0X0MHleW4hW2XIJrxzFCg0/edit?usp=sharing" target="_blank"> click here</a>
 
@@ -100,4 +100,4 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
     </tr>
 </table>
 
-<p align="left"><a href="temporary_result2" target="_blank">Next</a></p>
+<p align="right"><a href="temporary_result2.md" target="_blank">Next</a></p>
