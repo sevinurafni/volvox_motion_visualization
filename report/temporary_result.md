@@ -4,62 +4,101 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
 
 
 <table>
-  <tr>
-    <td>
-        <img src="trans/000000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
-        <p align="center"> Motionless</p>
-    </td>
-    <td>
-        <img src="trans/100000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
-        <p align="center"> X-axis Translation</p>
-    </td>
-    <td>
-        <img src="trans/010000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
-        <p align="center"> Y-axis Translation</p>
-    </td>
-    <td>
-        <img src="trans/001000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
-        <p align="center"> Z-axis Translation</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <br>
-        <img src="trans/001000-pers.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
-        <p align="center"> Z-axis Translation with perspective</p>
-    </td>
-    <td>
-        <img src="trans/110000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
-        <p align="center"> XY-axis Translation </p>
-    </td>
-    <td>
-        <img src="trans/101000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
-        <p align="center"> XZ-axis Translation</p>
-    </td>
-    <td>
-        <br>
-        <img src="trans/101000-pers.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
-        <p align="center"> XZ-axis Translation with perspective</p>
-    </td>
-  </tr>
-     <td>
-        <img src="trans/011000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
-        <p align="center"> YZ-axis Translation</p>
-    </td>
-    <td>
-        <br>
-        <img src="trans/011000-pers.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
-        <p align="center"> YZ-axis Translation with perspective</p>
-    </td>
-    <td>
-        <img src="trans/111000.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
-        <p align="center"> XYZ-axis Translation</p>
-    </td>
-    <td>
-        <br>
-        <img src="trans/111000-pers.gif" alt="Observation video Ishikawa" style="width:216px;height:202px;">
-        <p align="center"> XYZ-axis Translation with perspective</p>
-    </td>
-  <tr>
-  </tr>
+    <tr>
+        <td>
+            <img src="trans/000000.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> Motionless</p>
+        </td>
+        <td>
+            <img src="trans/100000.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> X-axis Translational</p>
+        </td>
+        <td>
+            <img src="trans/010000.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> Y-axis Translational</p>
+        </td>
+        <td>
+            <img src="trans/001000.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> Z-axis Translational</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <br>
+            <img src="trans/001000-pers.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> Z-axis Translational with perspective</p>
+        </td>
+        <td>
+            <img src="trans/110000.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> XY-axis Translational </p>
+        </td>
+        <td>
+            <img src="trans/101000.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> XZ-axis Translational</p>
+        </td>
+        <td>
+            <br>
+            <img src="trans/101000-pers.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> XZ-axis Translational with perspective</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="trans/011000.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> YZ-axis Translational</p>
+        </td>
+        <td>
+            <br>
+            <img src="trans/011000-pers.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> YZ-axis Translational with perspective</p>
+        </td>
+        <td>
+            <img src="trans/111000.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> XYZ-axis Translational</p>
+        </td>
+        <td>
+            <br>
+            <img src="trans/111000-pers.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> XYZ-axis Translational with perspective</p>
+        </td>
+    </tr>
+</table>
+    <tr>
+        <td>
+            <img src="rot/000100.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> X-axis Rotational</p>
+        </td>
+        <td>
+            <img src="rot/000010.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> Y-axis Rotational</p>
+        </td>
+        <td>
+            <img src="rot/000001.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> Z-axis Rotational</p>
+        </td>
+        <td>
+            <img src="rot/000110.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> XY-axis Rotational</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="rot/000101.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> XZ-axis Rotational</p>
+        </td>
+        <td>
+            <img src="rot/000011.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> YZ-axis Rotational</p>
+        </td>
+        <td>
+            <img src="rot/000111.gif" alt="Simulation" style="width:216px;height:202px;">
+            <p align="center"> XYZ-axis Rotational</p>
+        </td>
+    </tr>
+<table>
+
+
+
+
+
 </table>
