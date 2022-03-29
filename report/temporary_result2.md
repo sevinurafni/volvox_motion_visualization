@@ -1,4 +1,4 @@
-# Temporary Result 15/64
+# Temporary Result 20/64
 
 To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3tvGKjdI0X0MHleW4hW2XIJrxzFCg0/edit?usp=sharing" target="_blank"> click here</a>
 
@@ -34,7 +34,7 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
         <td>
             <br>
             <img src="comb/001111-pers.gif" alt="Simulation" style="width:216px;height:202px;">
-            <p align="center"> Z-axis Translational XYZ-axis Rotational wit perpective</p>
+            <p align="center"> Z-axis Translational XYZ-axis Rotational with perpective</p>
         </td>
     </tr> 
 </table>
