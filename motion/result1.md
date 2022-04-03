@@ -1,8 +1,6 @@
-# Temporary Result 20/64
+# Result (Motionless/Translational/Rotational)
 
 To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3tvGKjdI0X0MHleW4hW2XIJrxzFCg0/edit?usp=sharing" target="_blank"> click here</a>
-
-
 
 <table>
     <tr>
@@ -75,4 +73,4 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
     </tr>
 </table>
 
-<p align="right"><a href="temporary_result2.md" target="_blank">Next</a></p>
+<p align="right"><a href="result2.md" target="_blank">Next</a></p>
