@@ -1,10 +1,5 @@
 # Problems
 
-<ul>
-  <li>The results of rotational motion on the xy, xz, yz, xyz axes do not match</li>
-  <li>The combination of rotational and translational motion makes the two colonies separate</li>
-  <li>How to run program with arguments</li>
-  <li>Overlap increases when using perspective</li>
-</ul>
+<p align"justify">Dynamic animation to visualize the approximate results of motion and position varying with time of the motion mode of two attached Volvox colonies. Volvox motion mode variations are predicted using a two-body system and then a program is made using Python. </p>
 
-<p>Read the report <a href="motion/result1.md">here</a>
+<p>See the result in <a href="motion/result1.md">here</a>
