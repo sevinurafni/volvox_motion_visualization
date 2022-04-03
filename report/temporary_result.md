@@ -3,6 +3,7 @@
 To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3tvGKjdI0X0MHleW4hW2XIJrxzFCg0/edit?usp=sharing" target="_blank"> click here</a>
 
 
+
 <table>
     <tr>
         <td>
@@ -62,10 +63,6 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
             <p align="center"> XYZ-axis Translational with perspective</p>
         </td>
     </tr>
-
-</table>
-
-<table>
     <tr>
         <td>
             <img src="rot/000100.gif" alt="Simulation" style="width:216px;height:202px;">

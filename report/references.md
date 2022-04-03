@@ -1,3 +1,5 @@
+# References
+
 [1] Benfield, J. A., & Szlemko, W. J. (2006). Internet-based data collection: Promises and realities. Journal of Research Practice, 2(2), D1-D1.
 [2] Chernous’ko, F. L. (2008). The optimal periodic motions of a two-mass system in a resistant medium. Journal of Applied Mathematics and Mechanics, 72 (2), 116-125.
 [3] Duran, J., & Mazozi, T. (1999). Granular boycott effect: How to mix granulates. Physical Review E, 60(5, 6199.
