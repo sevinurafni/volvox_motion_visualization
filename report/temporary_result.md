@@ -25,11 +25,6 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
     </tr>
     <tr>
         <td>
-            <br>
-            <img src="trans/001000-pers.gif" alt="Simulation" style="width:216px;height:202px;">
-            <p align="center"> Z-axis Translational with perspective</p>
-        </td>
-        <td>
             <img src="trans/110000.gif" alt="Simulation" style="width:216px;height:202px;">
             <p align="center"> XY-axis Translational </p>
         </td>
@@ -37,30 +32,11 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
             <img src="trans/101000.gif" alt="Simulation" style="width:216px;height:202px;">
             <p align="center"> XZ-axis Translational</p>
         </td>
-        <td>
-            <br>
-            <img src="trans/101000-pers.gif" alt="Simulation" style="width:216px;height:202px;">
-            <p align="center"> XZ-axis Translational with perspective</p>
-        </td>
     </tr>
     <tr>
         <td>
             <img src="trans/011000.gif" alt="Simulation" style="width:216px;height:202px;">
             <p align="center"> YZ-axis Translational</p>
-        </td>
-        <td>
-            <br>
-            <img src="trans/011000-pers.gif" alt="Simulation" style="width:216px;height:202px;">
-            <p align="center"> YZ-axis Translational with perspective</p>
-        </td>
-        <td>
-            <img src="trans/111000.gif" alt="Simulation" style="width:216px;height:202px;">
-            <p align="center"> XYZ-axis Translational</p>
-        </td>
-        <td>
-            <br>
-            <img src="trans/111000-pers.gif" alt="Simulation" style="width:216px;height:202px;">
-            <p align="center"> XYZ-axis Translational with perspective</p>
         </td>
     </tr>
     <tr>
