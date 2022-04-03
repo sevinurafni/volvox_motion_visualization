@@ -33,12 +33,12 @@ To see illustrations<a href="https://docs.google.com/document/d/1sPUEbgdDKk0lN3t
         </td>
         <td>
             <br>
-            <img src="trans_rotx/01100.gif" alt="Simulation" style="width:216px;height:202px;">
+            <img src="trans_rotx/011100.gif" alt="Simulation" style="width:216px;height:202px;">
             <p align="center"> YZ-axis Translational X-axis Rotational</p>
         </td>
         <td>
             <br>
-            <img src="trans_rotx/11100.gif" alt="Simulation" style="width:216px;height:202px;">
+            <img src="trans_rotx/111100.gif" alt="Simulation" style="width:216px;height:202px;">
             <p align="center"> XYZ-axis Translational X-axis Rotational</p>
         </td>
     </tr> 
